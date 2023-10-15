@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: /san-qi/sitemap.xml
+Sitemap: http://MiaoJiajia.github.io/san-qi/sitemap.xml
